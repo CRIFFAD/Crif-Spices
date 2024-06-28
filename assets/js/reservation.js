@@ -1,5 +1,4 @@
-// Book A Table Form 
-const form = document.querySelector('form');
+ const form = document.querySelector('form');
 const submitButton = document.querySelector('input[type="submit"]');
 
 form.addEventListener('submit', (event) => {
