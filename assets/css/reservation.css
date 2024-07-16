@@ -114,7 +114,6 @@ h2 span {
 .button-container button:hover {
     background-image: linear-gradient(to right, #61045f, #aa076b);
 }
-/* Responsive CSS */
 @media screen and (max-width: 600px) {
     .container {
         min-width: 200px;
@@ -128,4 +127,5 @@ h2 span {
     .table-container {
         margin: 2em 1em;
     }
+    
 }

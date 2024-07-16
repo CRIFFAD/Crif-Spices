@@ -548,7 +548,7 @@ section#promo-card {
 .testimonial{
     color: black;
     height: 450px;
-    background: aquamarine;
+    background: rgb(255, 255, 255);
     padding: 4px 8px;
     border-radius: 15px;
     transition: transform 0.5s;
