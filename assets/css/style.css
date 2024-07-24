@@ -562,12 +562,12 @@ section#promo-card {
     margin: 8px 0;
 }
 .testimonial:hover {
-    background-color: aqua;
+    background-color: #ff9d2e;
     transform: translateY(-8px);
     box-shadow: 2px 2px 4px black;
 }
 .star{
-    color: orange;
+    color: rgb(55, 0, 255);
     margin: 12px 0;
 }
 .name{
